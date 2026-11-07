@@ -1,0 +1,137 @@
+================================================================================
+EVALUATION REPORT - Prompt Engineering Experiments
+Generated: 2026-08-18 00:02:35
+================================================================================
+
+OVERALL PERFORMANCE
+----------------------------------------
+Accuracy: 0.7205
+Macro F1: 0.7297
+Weighted F1: 0.7217
+
+Per-class metrics:
+  Positive: Precision=0.6429, Recall=0.7206, F1=0.6795
+
+TOKEN EFFICIENCY (Input & Output)
+----------------------------------------
+Average Output Tokens (overall): 205.5
+
+Per-Technique Token Efficiency:
+  few_shot: Input=115.5 tokens, Output=201.1 tokens, Ratio=63.5%
+  hybrid: Input=220.0 tokens, Output=227.8 tokens, Ratio=50.9%
+  self_consistency: Input=49.0 tokens, Output=192.5 tokens, Ratio=79.7%
+  zero_shot: Input=49.0 tokens, Output=200.8 tokens, Ratio=80.4%
+  Negative: Precision=0.7479, Recall=0.8092, F1=0.7773
+
+TOKEN EFFICIENCY (Input & Output)
+----------------------------------------
+Average Output Tokens (overall): 205.5
+
+Per-Technique Token Efficiency:
+  few_shot: Input=115.5 tokens, Output=201.1 tokens, Ratio=63.5%
+  hybrid: Input=220.0 tokens, Output=227.8 tokens, Ratio=50.9%
+  self_consistency: Input=49.0 tokens, Output=192.5 tokens, Ratio=79.7%
+  zero_shot: Input=49.0 tokens, Output=200.8 tokens, Ratio=80.4%
+  Neutral: Precision=0.7736, Recall=0.6952, F1=0.7323
+
+TOKEN EFFICIENCY (Input & Output)
+----------------------------------------
+Average Output Tokens (overall): 205.5
+
+Per-Technique Token Efficiency:
+  few_shot: Input=115.5 tokens, Output=201.1 tokens, Ratio=63.5%
+  hybrid: Input=220.0 tokens, Output=227.8 tokens, Ratio=50.9%
+  self_consistency: Input=49.0 tokens, Output=192.5 tokens, Ratio=79.7%
+  zero_shot: Input=49.0 tokens, Output=200.8 tokens, Ratio=80.4%
+
+MODEL-LEVEL PERFORMANCE
+----------------------------------------
+
+Model: Fin-R1_GGUF
+  Accuracy: 0.6543
+  Macro F1: 0.6767
+
+Model: llama3.2-abliterate
+  Accuracy: 0.7492
+  Macro F1: 0.7516
+
+DATASET-LEVEL PERFORMANCE
+----------------------------------------
+
+Dataset: fiqa
+  Accuracy: 0.6637
+  Macro F1: 0.5566
+
+Dataset: fp100
+  Accuracy: 0.8726
+  Macro F1: 0.8609
+
+Dataset: fp50
+  Accuracy: 0.5243
+  Macro F1: 0.5587
+
+Dataset: fp66
+  Accuracy: 0.6301
+  Macro F1: 0.6523
+
+Dataset: fp75
+  Accuracy: 0.7320
+  Macro F1: 0.7252
+
+TECHNIQUE-LEVEL PERFORMANCE
+----------------------------------------
+
+Technique: few_shot
+  Accuracy: 0.7238
+  Macro F1: 0.7370
+
+Technique: hybrid
+  Accuracy: 0.7010
+  Macro F1: 0.6952
+
+Technique: self_consistency
+  Accuracy: 0.7301
+  Macro F1: 0.7421
+
+Technique: zero_shot
+  Accuracy: 0.7271
+  Macro F1: 0.7382
+
+STATISTICAL SIGNIFICANCE TESTS (McNemar's)
+----------------------------------------
+llama3.2-abliterate | fp50 | self_consistency vs few_shot | p=1.0000 | Significant: NO
+llama3.2-abliterate | fp50 | self_consistency vs zero_shot | p=0.8231 | Significant: NO
+llama3.2-abliterate | fp50 | self_consistency vs hybrid | p=0.2927 | Significant: NO
+llama3.2-abliterate | fp50 | few_shot vs zero_shot | p=1.0000 | Significant: NO
+llama3.2-abliterate | fp50 | few_shot vs hybrid | p=0.3271 | Significant: NO
+llama3.2-abliterate | fp50 | zero_shot vs hybrid | p=0.3588 | Significant: NO
+llama3.2-abliterate | fp75 | few_shot vs self_consistency | p=0.0430 | Significant: YES
+llama3.2-abliterate | fp75 | few_shot vs hybrid | p=0.0645 | Significant: NO
+llama3.2-abliterate | fp75 | few_shot vs zero_shot | p=0.0744 | Significant: NO
+llama3.2-abliterate | fp75 | self_consistency vs hybrid | p=0.9507 | Significant: NO
+llama3.2-abliterate | fp75 | self_consistency vs zero_shot | p=0.7423 | Significant: NO
+llama3.2-abliterate | fp75 | hybrid vs zero_shot | p=0.8044 | Significant: NO
+llama3.2-abliterate | fiqa | hybrid vs few_shot | p=0.0000 | Significant: YES
+llama3.2-abliterate | fiqa | hybrid vs zero_shot | p=0.0000 | Significant: YES
+llama3.2-abliterate | fiqa | hybrid vs self_consistency | p=0.0000 | Significant: YES
+llama3.2-abliterate | fiqa | few_shot vs zero_shot | p=0.0499 | Significant: YES
+llama3.2-abliterate | fiqa | few_shot vs self_consistency | p=0.0499 | Significant: YES
+llama3.2-abliterate | fiqa | zero_shot vs self_consistency | p=0.7237 | Significant: NO
+Fin-R1_GGUF | fp50 | zero_shot vs self_consistency | p=0.8569 | Significant: NO
+Fin-R1_GGUF | fp50 | zero_shot vs few_shot | p=0.3320 | Significant: NO
+Fin-R1_GGUF | fp50 | zero_shot vs hybrid | p=0.7139 | Significant: NO
+Fin-R1_GGUF | fp50 | self_consistency vs few_shot | p=0.1917 | Significant: NO
+Fin-R1_GGUF | fp50 | self_consistency vs hybrid | p=0.5453 | Significant: NO
+Fin-R1_GGUF | fp50 | few_shot vs hybrid | p=0.6608 | Significant: NO
+Fin-R1_GGUF | fp75 | hybrid vs few_shot | p=0.0129 | Significant: YES
+Fin-R1_GGUF | fp75 | hybrid vs self_consistency | p=0.0178 | Significant: YES
+Fin-R1_GGUF | fp75 | hybrid vs zero_shot | p=0.0003 | Significant: YES
+Fin-R1_GGUF | fp75 | few_shot vs self_consistency | p=0.8439 | Significant: NO
+Fin-R1_GGUF | fp75 | few_shot vs zero_shot | p=0.2140 | Significant: NO
+Fin-R1_GGUF | fp75 | self_consistency vs zero_shot | p=0.0969 | Significant: NO
+Fin-R1_GGUF | fiqa | zero_shot vs self_consistency | p=0.1930 | Significant: NO
+Fin-R1_GGUF | fiqa | zero_shot vs few_shot | p=0.9075 | Significant: NO
+Fin-R1_GGUF | fiqa | zero_shot vs hybrid | p=0.0000 | Significant: YES
+Fin-R1_GGUF | fiqa | self_consistency vs few_shot | p=0.2893 | Significant: NO
+Fin-R1_GGUF | fiqa | self_consistency vs hybrid | p=0.0000 | Significant: YES
+Fin-R1_GGUF | fiqa | few_shot vs hybrid | p=0.0000 | Significant: YES

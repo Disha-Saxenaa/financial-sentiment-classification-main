@@ -1,0 +1,1055 @@
+id,text,true_sentiment,predicted_sentiment,raw_response,technique
+0,"According to Gran , the company has no plans to move all production to Russia , although that is whe...",neutral,unknown,"To classify the sentiment of the given financial news text, I'll analyze the content and context provided. The text states: ""According to Gran, the company has no plans to move all production to Russia, although that is where the company is growing.""
+
+### Key Analysis:
+1. **No Plans for Production Move**: The company explicitly states there are no intentions to relocate all production to Russia. This could be interpreted as a positive signal because it removes uncertainty about potential operational changes or geopolitical risks associated with moving",zero_shot
+1,"Technopolis plans to develop in stages an area of no less than 100,000 square meters in order to hos...",neutral,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the content for any indicators of positive, negative, or neutral tone. Here's a step-by-step breakdown:
+
+1. **Identify Key Words and Phrases**:
+   - The text mentions ""Technopolis plans to develop in stages an area of no less than 100,000 square meters.""
+   - It specifies the purpose is to host companies working in computer technologies and telecommunications.
+
+2. **",zero_shot
+2,The international electronic industry company Elcoteq has laid off tens of employees from its Tallin...,negative,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and tone of the information presented. Here's a step-by-step breakdown:
+
+1. **Identify Key Elements**: The text mentions that Elcoteq, an international electronic industry company, has laid off tens of employees from its Tallinn facility. Additionally, it states that this layoff is part of a trend where the company contracted (reduced) the number of office workers, as reported by the daily Post",zero_shot
+3,With the new production plant the company would increase its capacity to meet the expected increase ...,positive,positive,"To classify the sentiment of the given financial news text, I'll analyze the key words and phrases that indicate positive, negative, or neutral tone. Here's the step-by-step breakdown:
+
+1. **Identify Key Phrases**:
+   - ""new production plant"": This suggests a proactive move by the company to expand its infrastructure.
+   - ""increase its capacity"": Capacity expansion is generally seen as a positive strategy for growth and meeting demand.
+   - ""expected increase in demand"": Anticipating",zero_shot
+4,"According to the company 's updated strategy for the years 2009-2012 , Basware targets a long-term n...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the content and context. The text states that Basware has updated its strategy for 2009-2012, targeting a long-term net sales growth between 20% and 40%, along with an operating profit margin of 10% to 20% of net sales.
+
+### Key Points:
+1. **Net Sales Growth Target**: The company aims for substantial growth (20",zero_shot
+5,FINANCING OF ASPOCOMP 'S GROWTH Aspocomp is aggressively pursuing its growth strategy by increasingl...,positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and tone of the statement. The text mentions that Aspocomp is ""aggressively pursuing its growth strategy"" by focusing on technologically advanced products (HDI printed circuit boards). Here's a step-by-step breakdown:
+
+1. **Key Phrases**:  
+   - ""aggressively pursuing"": This phrase indicates a proactive and determined approach, which is generally positive in business contexts.
+   - ""incre",zero_shot
+6,"For the last quarter of 2010 , Componenta 's net sales doubled to EUR131m from EUR76m for the same p...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the key figures and statements presented. The text mentions that Componenta's net sales doubled in the last quarter of 2010 compared to the same period a year earlier. Specifically, net sales increased from EUR76 million to EUR131 million. Additionally, the company moved from a pre-tax loss of EUR7 million to achieving zero pre-tax profit.
+
+### Step-by-Step Analysis:
+1. **Net",zero_shot
+7,"In the third quarter of 2010 , net sales increased by 5.2 % to EUR 205.5 mn , and operating profit b...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the key figures and their context. The text states that in the third quarter of 2010, net sales increased by 5.2% to EUR 205.5 million, and operating profit increased by 34.9% to EUR 23.5 million.
+
+### Step-by-Step Analysis:
+1. **Identify Key Metrics**:
+   - Net Sales: Increased by",zero_shot
+8,Operating profit rose to EUR 13.1 mn from EUR 8.7 mn in the corresponding period in 2007 representin...,positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the key components and their implications. The text states that operating profit rose to EUR 13.1 million from EUR 8.7 million in the corresponding period in 2007, representing a 7.7% increase relative to net sales.
+
+### Step-by-Step Analysis:
+1. **Key Figures**:
+   - Operating Profit Increased: From EUR 8.7 million (2007",zero_shot
+9,"Operating profit totalled EUR 21.1 mn , up from EUR 18.6 mn in 2007 , representing 9.7 % of net sale...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the content and determine whether it conveys a positive, negative, or neutral tone. Here's the step-by-step breakdown:
+
+1. **Identify Key Metrics**: The text mentions ""operating profit totalled EUR 21.1 mn"" and compares it to the previous year (2007) with an operating profit of EUR 18.6 mn. Additionally, it states that this represents a",zero_shot
+10,TeliaSonera TLSN said the offer is in line with its strategy to increase its ownership in core busin...,positive,unknown,"To classify the sentiment of the given financial news text, I'll analyze the content step by step. The text states that TeliaSonera TLSN is making an offer which aligns with their strategy of increasing ownership in core business holdings and would strengthen Eesti Telekom's customer offerings.
+
+1. **Key Phrases**:  
+   - ""in line with its strategy"" suggests alignment with pre-existing goals, which is generally positive.  
+   - ""increase its ownership"" implies expansion or growth,",zero_shot
+11,"STORA ENSO , NORSKE SKOG , M-REAL , UPM-KYMMENE Credit Suisse First Boston ( CFSB ) raised the fair ...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and key terms used. The text states that Credit Suisse First Boston (CFSB) has raised the ""fair value"" for shares in four of the largest Nordic forestry groups, which includes companies like STORA ENSO, NORSKE SKOG, M-REAL, and UPM-KYMMENE.
+
+### Key Analysis:
+1. **Fair Value Adjustment**: The term ""raised the fair value""",zero_shot
+12,"A purchase agreement for 7,200 tons of gasoline with delivery at the Hamina terminal , Finland , was...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and key terms within the sentence. Here's a step-by-step breakdown:
+
+1. **Identify Key Components**:
+   - The text mentions a ""purchase agreement"" for 7,200 tons of gasoline.
+   - Delivery is specified at the Hamina terminal in Finland.
+   - The agreement includes an average Platts index price plus $8 per month.
+   - The company involved is Neste",zero_shot
+13,Finnish Talentum reports its operating profit increased to EUR 20.5 mn in 2005 from EUR 9.3 mn in 20...,positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the key figures and their context. The text states that Finnish Talentum's operating profit increased from EUR 9.3 million in 2004 to EUR 20.5 million in 2005, and net sales rose from EUR 96.4 million to EUR 103.3 million during the same period. Both metrics show growth, which is typically associated with positive financial performance",zero_shot
+14,"Clothing retail chain Sepp+ñl+ñ 's sales increased by 8 % to EUR 155.2 mn , and operating profit ros...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the key figures and their implications. The text states that Sepp+ñl+ñ's sales increased by 8% to EUR 155.2 million, and operating profit rose to EUR 31.1 million from EUR 17.1 million in 2004.
+
+### Step-by-Step Analysis:
+1. **Sales Growth**: A 8% increase in sales is a positive",zero_shot
+15,"Consolidated net sales increased 16 % to reach EUR74 .8 m , while operating profit amounted to EUR0 ...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the key figures and their implications. The text states that consolidated net sales increased by 16% to reach EUR74.8 million, while operating profit amounted to EUR0.9 million compared to a loss of EUR0.7 million in the prior year period.
+
+### Step-by-Step Analysis:
+1. **Net Sales Growth**: A 16% increase in net sales is a positive indicator as it shows",zero_shot
+16,Foundries division reports its sales increased by 9.7 % to EUR 63.1 mn from EUR 57.5 mn in the corre...,positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and the numerical data presented. The text discusses sales increases for two divisions: Foundries and Machine Shop. Here's a step-by-step breakdown:
+
+1. **Identify Key Sentiments**:
+   - The Foundries division reported a 9.7% increase in sales from EUR 57.5 million to EUR 63.1 million.
+   - The Machine Shop division saw a larger increase of",zero_shot
+17,"HELSINKI ( AFX ) - Shares closed higher , led by Nokia after it announced plans to team up with Sany...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the key components that indicate whether the overall tone is positive, negative, or neutral. Here's a step-by-step breakdown:
+
+1. **Identify Key Sentences and Phrases**:
+   - The text starts with ""Shares closed higher,"" which directly indicates an upward movement in stock prices.
+   - It mentions Nokia’s collaboration with Sanyo to manufacture 3G handsets, followed by Nokian Tyres",zero_shot
+18,"Incap Contract Manufacturing Services Pvt Ltd , a subsidiary of Incap Corporation of Finland , plans...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the content and context provided. The text states that ""Incap Contract Manufacturing Services Pvt Ltd, a subsidiary of Incap Corporation of Finland, plans to double its revenues by 2007-2008."" 
+
+First, let's break down the key elements:
+1. **Company**: Incap Contract Manufacturing Services Pvt Ltd (a subsidiary).
+2. **Goal**: Double revenues.
+3. **Timeline**:",zero_shot
+19,"Its board of directors will propose a dividend of EUR0 .12 per share for 2010 , up from the EUR0 .08...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the context and the implications of the information provided. The text states that the board of directors will propose a dividend of EUR0.12 per share for 2010, which is an increase from the EUR0.08 per share paid in 2009. 
+
+First, let's break down the key elements:
+- **Dividend proposal**: The company is planning to pay out dividends to its",zero_shot
+20,"Lifetree was founded in 2000 , and its revenues have risen on an average by 40 % with margins in lat...",positive,unknown,"To classify the sentiment of the given financial news text, I'll analyze the key terms and context provided. The text states that Lifetree was founded in 2000 and has seen revenue growth averaging 40% annually, with margins in the late 30s. 
+
+1. **Revenue Growth**: A 40% average annual increase is a significant positive indicator for a company's financial health. This suggests strong profitability and expansion potential.
+2. **Margins**: Margins",zero_shot
+21,( Filippova ) A trilateral agreement on investment in the construction of a technology park in St Pe...,positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and key terms within the text. Here's the step-by-step breakdown:
+
+1. **Identify Key Elements**: The text mentions a ""trilateral agreement"" related to investment in constructing a technology park in St Petersburg. This is framed within the context of an event called ""Days of the Russian Economy,"" which opened in Helsinki.
+
+2. **Understand Context**: Trilateral agreements typically involve three parties, often countries",zero_shot
+22,"MegaFon 's subscriber base increased 16.1 % in 2009 to 50.5 million users as of December 31 , while ...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the key figures and statements within it. The text discusses MegaFon's subscriber base growth and market share changes in 2009 compared to previous years. Here’s a step-by-step breakdown:
+
+1. **Subscriber Base Growth**: The text states that MegaFon's subscriber base increased by 16.1% in 2009, reaching 50.5 million users by December 3",zero_shot
+23,"Net income from life insurance doubled to EUR 6.8 mn from EUR 3.2 mn , and net income from non-life ...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the key figures and their context provided. The text states that net income from life insurance doubled to EUR 6.8 million from EUR 3.2 million, and net income from non-life insurance rose to EUR 5.2 million from EUR 1.5 million compared to the same period in 2009.
+
+### Step-by-Step Analysis:
+1. **Identify Key Metrics**:
+   -",zero_shot
+24,Net sales increased to EUR193 .3 m from EUR179 .9 m and pretax profit rose by 34.2 % to EUR43 .1 m. ...,positive,positive,"To classify the sentiment of the provided financial news text, we need to analyze the key figures and their context. The text states that net sales increased from EUR179.9 million to EUR193.3 million, which is a positive development. Additionally, pretax profit rose by 34.2% to EUR43.1 million, another positive indicator. The mention of currency conversion (EUR1 = USD1.4) might be relevant for international comparisons but doesn't",zero_shot
+25,"Net sales surged by 18.5 % to EUR167 .8 m. Teleste said that EUR20 .4 m , or 12.2 % , of the sales c...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and key terms used. Here's a step-by-step breakdown:
+
+1. **Identify Key Metrics**: The text mentions ""Net sales surged by 18.5%"" which is a significant positive growth indicator. This suggests an increase in revenue, which is typically viewed favorably in financial contexts.
+
+2. **Magnitude of Growth**: An 18.5% surge is substantial and indicates strong performance compared to",zero_shot
+26,Nordea Group 's operating profit increased in 2010 by 18 percent year-on-year to 3.64 billion euros ...,positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the key figures and their context. The text states that Nordea Group's operating profit increased by 18% year-on-year (YoY) in 2010, reaching 3.64 billion euros. Additionally, total revenue grew by 3% YoY to 9.33 billion euros. 
+
+### Key Observations:
+1. **Operating Profit Growth**: A 18% increase",zero_shot
+27,"Operating profit for the nine-month period increased from EUR13 .6 m , while net sales increased fro...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the key figures and their context provided. The text states that operating profit for the nine-month period increased from EUR13.6 million, while net sales increased from EUR394.7 million compared to the same period in 2005. 
+
+### Step-by-Step Analysis:
+1. **Identify Key Metrics**:  
+   - Operating Profit: Increased from EUR13.6 million (previous year",zero_shot
+28,Operating profit for the nine-month period increased from EUR3 .1 m and net sales increased from EUR...,positive,positive,"To classify the sentiment of the given financial news text, we need to analyze the key terms and their implications. The text states that operating profit for the nine-month period increased from EUR3.1 million and net sales increased from EUR61.5 million compared to the same period in 2007. 
+
+Here's the breakdown:
+- **Operating Profit**: Increased (positive indicator)
+- **Net Sales**: Increased (positive indicator)
+
+Both metrics are showing growth, which is a positive financial",zero_shot
+29,"Operating profit for the three-month period increased from EUR1 .2 m , while revenue increased from ...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the key terms and context provided. The text states that operating profit for a three-month period increased from EUR1.2 million, while revenue increased from EUR20.2 million compared to the same period in 2005. 
+
+### Step-by-Step Analysis:
+1. **Identify Key Metrics**:  
+   - Operating Profit: Increased from EUR1.2 million (current period) vs. EUR1",zero_shot
+30,"The Brazilian unit of Finnish security solutions provider F-Secure signed up 1,500 new clients last ...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and tone of the information presented. Here's a step-by-step breakdown:
+
+1. **Identify Key Elements**: The text mentions that F-Secure’s Brazilian unit signed up 1,500 new clients last year. This is a numerical increase in client base, which typically indicates growth or expansion.
+
+2. **Contextual Analysis**: The phrase ""signed up"" refers to acquiring new customers, which is",zero_shot
+31,The company 's net profit rose 11.4 % on the year to 82.2 million euros in 2005 on sales of 686.5 mi...,positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the key figures and statements mentioned. The text states that the company's net profit increased by 11.4% compared to the previous year, reaching 82.2 million euros in 2005. Additionally, sales grew by 13.8% year-over-year to 686.5 million euros. Both figures indicate growth and improvement in financial performance. The use of positive percentages (",zero_shot
+32,"The Lithuanian beer market made up 14.41 million liters in January , a rise of 0.8 percent from the ...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and key terms used in the statement. Here's a step-by-step breakdown:
+
+1. **Identify Key Information**: The text states that the Lithuanian beer market had 14.41 million liters sold in January, which is an increase of 0.8% compared to the same period last year.
+
+2. **Analyze Context**:
+   - The primary metric here is the volume of",zero_shot
+33,"Viking Line 's cargo revenue increased by 5.4 % to EUR 21.46 mn , and cargo volume increased by 2.4 ...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and key figures mentioned. The text states that Viking Line's cargo revenue increased by 5.4% to EUR 21.46 million, and cargo volume increased by 2.4% to 70,116 units. Both metrics (revenue and volume) are showing growth, which is a positive indicator for the company's performance in its cargo segment.
+
+### Key Analysis:
+1",zero_shot
+34,The fair value of the property portfolio doubled as a result of the Kapiteeli acquisition and totall...,positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and key terms used in the statement. Here's a step-by-step breakdown:
+
+1. **Identify Key Terms**: The text mentions ""fair value,"" ""property portfolio,"" ""doubled,"" ""Kapiteeli acquisition,"" and specific monetary figures (EUR 2,686.2 million and EUR 1,259.7 million). These terms are crucial for understanding the context.",zero_shot
+35,10 February 2011 - Finnish media company Sanoma Oyj HEL : SAA1V said yesterday its 2010 net profit a...,positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the key information presented. The text states that Sanoma Oyj's net profit almost tripled from EUR107.1 million in 2009 to EUR297.3 million in 2010. Additionally, they announced a proposal for a raised payout.
+
+### Step-by-Step Analysis:
+1. **Key Figures**:
+   - **2009 Net Profit**: EUR",zero_shot
+36,"A Helsinki : ELIiV today reported EPS of EUR1 .13 for 2009 , an increase over EPS of EUR1 .12 in 200...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and key terms used. The text states that ELIiV (likely a company name) reported an earnings per share (EPS) increase from EUR1.12 in 2008 to EUR1.13 in 2009. Here's the step-by-step breakdown:
+
+1. **Identify Key Terms**: The main term here is ""increase,"" which directly indicates a positive change",zero_shot
+37,"Aspo Plc STOCK EXCHANGE RELEASE February 11 , 2011 at8 .45 a.m. ESL Shipping Ltd , part of Aspo Grou...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and key terms in the text. Here's the step-by-step breakdown:
+
+1. **Identify Key Entities**: The text mentions ""Aspo Plc,"" ""ESL Shipping Ltd,"" ""Rautaruukki Corporation,"" and discusses a new long-term contract for marine transport of raw materials on the Baltic Sea.
+
+2. **Understand the Context**: The release is from Aspo Plc's stock exchange",zero_shot
+38,"Commission income increased by 22 % to EUR 4.4 mn , and lending volume rose by 13.5 % ....",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the key figures and their implications presented in the statement. The text mentions two positive indicators: an increase in commission income and a rise in lending volume. Both percentages (22% and 13.5%) are growth rates, which typically indicate favorable performance for a company or entity. There is no mention of any negative factors such as losses, decreases, or challenges. Therefore, the overall sentiment here should be classified as",zero_shot
+39,"In January , traffic , measured in revenue passenger kilometres RPK , went up by 3.2 % and capacity ...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the context provided in the text and determine whether it reflects a positive, negative, or neutral outlook.
+
+The text states that in January, traffic (measured in revenue passenger kilometers RPK) increased by 3.2%, while capacity (available seat kilometers ASK) rose by 12.2%. 
+
+First, let's break down the components:
+- **Traffic (RPK)**: A 3.2",zero_shot
+40,"In January-September 2010 , Fiskars ' net profit went up by 14 % year-on-year to EUR 65.4 million an...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the key figures and their context. The text states that Fiskars' net profit increased by 14% year-on-year (from January-September 2009 to January-September 2010) to EUR 65.4 million, while net sales rose from EUR 487.7 million to EUR 525.3 million. 
+
+First, let's break down",zero_shot
+41,"Net income from life insurance rose to EUR 16.5 mn from EUR 14.0 mn , and net income from non-life i...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the context provided in the statement. The text mentions an increase in net income from both life insurance and non-life insurance segments compared to the previous year (2008). Here's a step-by-step breakdown:
+
+1. **Identify Key Figures**:  
+   - Life Insurance Net Income: Increased from EUR 14.0 million to EUR 16.5 million.  
+   - Non-Life Insurance Net Income",zero_shot
+42,"Nyrstar has also agreed to supply to Talvivaara up to 150,000 tonnes of sulphuric acid per annum for...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and key terms within the sentence. The text states that Nyrstar has agreed to supply up to 150,000 tonnes of sulphuric acid annually to Talvivaara for use in their leaching process during the period of zinc concentrate supply.
+
+First, let's break down the components:
+- **Nyrstar** is a company providing a product (sulphuric acid",zero_shot
+43,"Sales for both the Department Store Division and Hobby Hall increased by 7 % , while sales for the c...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the context and the numerical changes mentioned. The text states that two divisions (Department Store Division and Hobby Hall) saw a 7% increase in sales, while another subsidiary (Seppala) experienced a 4% decrease. 
+
+First, let's break down the components:
+- **Positive aspect**: Two out of three segments (two divisions) had an increase in sales.
+- **Negative aspect**: One segment (the",zero_shot
+44,Sales have risen in other export markets ....,positive,positive,"To classify the sentiment of the given financial news text, we need to analyze the content and determine whether it conveys a positive, negative, or neutral tone. Here's the step-by-step breakdown:
+
+1. **Identify Key Words**: The text states, ""Sales have risen in other export markets."" The key words here are ""sales"" and ""risen,"" which indicate an increase in sales performance.
+
+2. **Contextual Analysis**: Sales growth is generally a positive indicator for a company or",zero_shot
+45,Sales increased due to growing market rates and increased operations ....,positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the key words and context provided in the sentence. The text states: ""Sales increased due to growing market rates and increased operations.""
+
+### Step-by-Step Analysis:
+1. **Identify Key Words**:
+   - ""Sales increased"": This is a direct statement indicating growth in revenue or sales figures.
+   - ""growing market rates"": Market rates (like interest rates) are rising, which could imply favorable conditions for",zero_shot
+46,The agreement strengthens our long-term partnership with Nokia Siemens Networks ....,positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the context and tone of the statement. Here's a step-by-step breakdown:
+
+1. **Identify Key Words**: The main phrase in the text is ""strengthens our long-term partnership."" This indicates a positive development because strengthening a partnership typically implies improved collaboration or mutual benefits.
+
+2. **Contextual Analysis**: The agreement mentioned here is with Nokia Siemens Networks, which suggests a business relationship. In financial terms, partnerships can",zero_shot
+47,"The agreement was signed with Biohit Healthcare Ltd , the UK-based subsidiary of Biohit Oyj , a Finn...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and tone of the information presented. The text states that an agreement was signed with Biohit Healthcare Ltd, which is a subsidiary of Biohit Oyj, a Finnish company involved in developing, manufacturing, and marketing liquid handling products and diagnostic test systems.
+
+First, let's break down the key elements:
+1. **Agreement**: This implies a business transaction or partnership has been established, which is generally neutral unless",zero_shot
+48,The company also estimates the already carried out investments to lead to an increase in its net sal...,positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the context and key terms used in the statement. Here's a step-by-step breakdown:
+
+1. **Identify Key Phrases**: The text mentions ""increase in its net sales for 2010 from 2009"" which is a positive indication because it suggests growth.
+2. **Contextual Analysis**: The company has already made investments, and these are expected to contribute to higher net sales. This",zero_shot
+49,"The company 's order book stood at 1.5 bln euro $ 2.2 bln on September 30 , 2007 , up by 24.2 pct on...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and key figures mentioned in the text. Here's a step-by-step breakdown:
+
+1. **Identify Key Metrics**: The text mentions the company’s order book stood at 1.5 billion euros ($2.2 billion) as of September 30, 2007. This is an absolute value but doesn't inherently indicate sentiment unless compared to previous periods or expectations.
+
+2. **Compare Year",zero_shot
+0,"According to Gran , the company has no plans to move all production to Russia , although that is whe...",neutral,unknown,"To determine the sentiment of the given financial news text, we need to analyze the content and context provided. The text states: ""According to Gran, the company has no plans to move all production to Russia, although that is where the company is growing.""
+
+### Step-by-Step Analysis:
+1. **Key Phrases Identification**:
+   - ""no plans to move all production to Russia"": This indicates a strategic decision against relocating operations.
+   - ""although that is where the company is growing",few_shot
+1,"Technopolis plans to develop in stages an area of no less than 100,000 square meters in order to hos...",neutral,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the context and key terms used. The text states that Technopolis plans to develop an area for hosting companies in computer technologies and telecommunications. Here's a step-by-step breakdown:
+
+1. **Identify Key Terms**:  
+   - ""develop in stages"": This suggests a planned expansion or growth strategy, which is generally positive as it indicates forward-looking actions.
+   - ""area of no less than 100,",few_shot
+2,The international electronic industry company Elcoteq has laid off tens of employees from its Tallin...,negative,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the context and key terms within the sentence. The text states that Elcoteq, an international electronic industry company, has laid off tens of employees from its Tallinn facility. Additionally, it mentions that unlike previous layoffs which affected production workers, this time the reductions impacted office workers as per a report by the daily Postimees.
+
+### Key Analysis:
+1. **Layoffs**: Layoffs are generally associated with negative",few_shot
+3,With the new production plant the company would increase its capacity to meet the expected increase ...,positive,positive,"To determine the sentiment of the provided financial news text, we need to analyze the content for positive, negative, or neutral indicators. Let's break down the text step by step:
+
+**Text:**  
+""With the new production plant the company would increase its capacity to meet the expected increase in demand and would improve the use of raw materials and therefore increase the production profitability.""
+
+### Key Components:
+1. **New Production Plant**: Introducing a new facility is generally seen as a positive development because it can lead",few_shot
+4,"According to the company 's updated strategy for the years 2009-2012 , Basware targets a long-term n...",positive,unknown,"To classify the sentiment of the provided financial text, we need to analyze its content and determine whether it conveys a positive, negative, or neutral tone. Here's the step-by-step breakdown:
+
+1. **Identify Key Components**:
+   - The text mentions Basware’s updated strategy for 2009-2012.
+   - It outlines targets for net sales growth (20%–40%) and operating profit margin (10%–20% of",few_shot
+5,FINANCING OF ASPOCOMP 'S GROWTH Aspocomp is aggressively pursuing its growth strategy by increasingl...,positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the context and key terms used. The text states: ""FINANCING OF ASPOCOMP 'S GROWTH Aspocomp is aggressively pursuing its growth strategy by increasingly focusing on technologically more demanding HDI printed circuit boards PCBs.""
+
+First, let's break down the components of the sentence:
+
+1. **Key phrase**: ""aggressively pursuing its growth strategy""
+   - The term ""aggressively",few_shot
+6,"For the last quarter of 2010 , Componenta 's net sales doubled to EUR131m from EUR76m for the same p...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the key figures and statements provided. The text states that Componenta's net sales doubled in the last quarter of 2010 compared to the same period a year earlier. Specifically, net sales increased from EUR76 million to EUR131 million. Additionally, the company moved from a pre-tax loss of EUR7 million to a zero pre-tax profit.
+
+First, let's break down the components:
+- **",few_shot
+7,"In the third quarter of 2010 , net sales increased by 5.2 % to EUR 205.5 mn , and operating profit b...",positive,unknown,"To determine the sentiment of the provided financial text, we need to analyze the key figures and contextual information presented. The text states that in the third quarter of 2010, net sales increased by 5.2% to EUR 205.5 million, and operating profit increased by 34.9% to EUR 23.5 million. 
+
+First, let's break down the components:
+- **Net Sales**: An increase of 5.2% indicates",few_shot
+8,Operating profit rose to EUR 13.1 mn from EUR 8.7 mn in the corresponding period in 2007 representin...,positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the key components and their implications. The text states: ""Operating profit rose to EUR 13.1 mn from EUR 8.7 mn in the corresponding period in 2007 representing 7.7% of net sales.""
+
+### Step-by-Step Analysis:
+1. **Key Figures**:
+   - Operating profit increased from EUR 8.7 million (2007) to EUR",few_shot
+9,"Operating profit totalled EUR 21.1 mn , up from EUR 18.6 mn in 2007 , representing 9.7 % of net sale...",positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the content and context carefully. The text states: ""Operating profit totalled EUR 21.1 mn, up from EUR 18.6 mn in 2007, representing 9.7% of net sales."" 
+
+First, let's break down the components:
+- **Operating profit** increased from EUR 18.6 million in 2007 to EUR 21.",few_shot
+10,TeliaSonera TLSN said the offer is in line with its strategy to increase its ownership in core busin...,positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the context and key terms used. The text states that TeliaSonera TLSN made an offer which aligns with their strategy of increasing ownership in core business holdings and enhancing Eesti Telekom's customer offerings.
+
+First, let's break down the components:
+1. **TeliaSonera TLSN**: This is a company name, so it doesn't inherently carry sentiment but sets the context.
+2. **Offer**:",few_shot
+11,"STORA ENSO , NORSKE SKOG , M-REAL , UPM-KYMMENE Credit Suisse First Boston ( CFSB ) raised the fair ...",positive,unknown,"To determine the sentiment of the provided text, we need to analyze the context and key terms. The text mentions that Credit Suisse First Boston (CFSB) has raised the ""fair value"" for shares in four large Nordic forestry companies: STORA ENSO, NORSKE SKOG, M-REAL, and UPM-KYMMENE.
+
+### Key Analysis:
+1. **Fair Value Adjustment**: In financial terms, raising the fair value of a stock typically implies that the investment bank",few_shot
+12,"A purchase agreement for 7,200 tons of gasoline with delivery at the Hamina terminal , Finland , was...",positive,unknown,"To determine the sentiment of the given financial text, we need to analyze its content and context. The text states that a purchase agreement for 7,200 tons of gasoline was signed with Neste Oil OYj at the average Platts index plus eight US dollars per month. Here's the step-by-step breakdown:
+
+1. **Identify Key Elements**: The main components are:
+   - Purchase quantity: 7,200 tons of gasoline.
+   - Delivery location: Ham",few_shot
+13,Finnish Talentum reports its operating profit increased to EUR 20.5 mn in 2005 from EUR 9.3 mn in 20...,positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the key figures and statements presented. The text states that Finnish Talentum reported an increase in operating profit and net sales compared to the previous year. Here's a step-by-step breakdown:
+
+1. **Identify Key Metrics**:
+   - Operating Profit: Increased from EUR 9.3 million in 2004 to EUR 20.5 million in 2005.
+   - Net Sales:",few_shot
+14,"Clothing retail chain Sepp+ñl+ñ 's sales increased by 8 % to EUR 155.2 mn , and operating profit ros...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the key figures and statements provided. The text mentions that Sepp+ñl+ñ's sales increased by 8% to EUR 155.2 million, and operating profit rose to EUR 31.1 million from EUR 17.1 million in 2004. 
+
+First, let's break down the components:
+- Sales growth: An 8% increase is a positive indicator",few_shot
+15,"Consolidated net sales increased 16 % to reach EUR74 .8 m , while operating profit amounted to EUR0 ...",positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the key figures and statements presented. The text states that consolidated net sales increased by 16% to reach EUR74.8 million, while operating profit amounted to EUR0.9 million compared to a loss of EUR0.7 million in the prior year period.
+
+### Step-by-Step Analysis:
+1. **Net Sales Growth**: A 16% increase in net sales is a positive indicator as it shows",few_shot
+16,Foundries division reports its sales increased by 9.7 % to EUR 63.1 mn from EUR 57.5 mn in the corre...,positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the context and key figures mentioned. The text states that two divisions (Foundries and Machine Shop) reported sales increases. Specifically:
+
+1. **Foundries division**: Sales increased by 9.7% to EUR 63.1 million from EUR 57.5 million in the corresponding period of 2006.
+2. **Machine Shop division**: Sales increased by 16.4% to",few_shot
+17,"HELSINKI ( AFX ) - Shares closed higher , led by Nokia after it announced plans to team up with Sany...",positive,positive,"To classify the sentiment of the provided financial news text, I'll analyze the key components and context. The text mentions that shares closed higher in Helsinki, influenced by two main factors: Nokia's partnership with Sanyo for 3G handsets manufacturing and Nokian Tyres' fourth-quarter earnings beating expectations. Both events are positive developments for their respective companies, which should positively impact share prices. There's no indication of negative factors here; the focus is on upward movement driven by favorable corporate actions",few_shot
+18,"Incap Contract Manufacturing Services Pvt Ltd , a subsidiary of Incap Corporation of Finland , plans...",positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the content and context. The text states that ""Incap Contract Manufacturing Services Pvt Ltd, a subsidiary of Incap Corporation of Finland, plans to double its revenues by 2007-2008."" 
+
+First, let's break down the key components:
+1. **Company Name**: Incap Contract Manufacturing Services Pvt Ltd (a subsidiary).
+2. **Key Action**: Plans to double its revenues.
+3",few_shot
+19,"Its board of directors will propose a dividend of EUR0 .12 per share for 2010 , up from the EUR0 .08...",positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the context and key terms used. The text states that the board of directors will propose a dividend of EUR0.12 per share for 2010, which is an increase from the EUR0.08 per share paid in 2009. 
+
+First, let's break down the components:
+- **Dividend proposal**: This is a positive financial action as it indicates that the company expects to",few_shot
+20,"Lifetree was founded in 2000 , and its revenues have risen on an average by 40 % with margins in lat...",positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the content for any indicators of positive, negative, or neutral tone. Let's break down the given text:
+
+**Text:** ""Lifetree was founded in 2000 , and its revenues have risen on an average by 40 % with margins in late 30s .""
+
+### Key Components:
+1. **Founding Year:** Lifetree was established in 2000.",few_shot
+21,( Filippova ) A trilateral agreement on investment in the construction of a technology park in St Pe...,positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the context and key terms within it. The text mentions a trilateral agreement on investment for constructing a technology park in St Petersburg during an economic forum in Helsinki. Here's the step-by-step breakdown:
+
+1. **Identify Key Terms**: 
+   - ""trilateral agreement"" implies collaboration among three parties, which is generally positive as it involves multiple stakeholders.
+   - ""investment in construction of a technology park"" suggests potential",few_shot
+22,"MegaFon 's subscriber base increased 16.1 % in 2009 to 50.5 million users as of December 31 , while ...",positive,unknown,"To classify the sentiment of the provided text, we need to analyze the key figures and statements within it. The text discusses MegaFon's subscriber base growth and market share changes in 2009. Here’s a step-by-step breakdown:
+
+1. **Subscriber Base Growth**:  
+   - MegaFon reported an increase of 16.1% in its subscriber base during 2009.  
+   - This is a significant positive indicator as subscriber growth typically reflects increased customer",few_shot
+23,"Net income from life insurance doubled to EUR 6.8 mn from EUR 3.2 mn , and net income from non-life ...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the key figures and context provided. The text states that net income from life insurance doubled to EUR 6.8 million from EUR 3.2 million, and net income from non-life insurance rose to EUR 5.2 million from EUR 1.5 million compared to the same period in 2009.
+
+### Step-by-Step Analysis:
+1. **Identify Key Metrics**:
+   - Life",few_shot
+24,Net sales increased to EUR193 .3 m from EUR179 .9 m and pretax profit rose by 34.2 % to EUR43 .1 m. ...,positive,positive,"To determine the sentiment of the provided financial text, we need to analyze the key figures and statements presented. The text states that net sales increased from EUR179.9 million to EUR193.3 million, which is a positive development. Additionally, pretax profit rose by 34.2% to EUR43.1 million, another positive indicator. The mention of the exchange rate (EUR1 = USD1.4) provides context but does not directly affect the sentiment",few_shot
+25,"Net sales surged by 18.5 % to EUR167 .8 m. Teleste said that EUR20 .4 m , or 12.2 % , of the sales c...",positive,unknown,"To classify the sentiment of the provided financial text, we need to analyze the key components and their implications. The text states:
+
+""Net sales surged by 18.5% to EUR167.8 m. Teleste said that EUR20.4 m, or 12.2%, of the sales came from the acquisitions made in 2009.""
+
+### Step-by-Step Analysis:
+1. **Key Figures**:
+   - Net sales increased by **1",few_shot
+26,Nordea Group 's operating profit increased in 2010 by 18 percent year-on-year to 3.64 billion euros ...,positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the key figures and context presented. The text states that Nordea Group's operating profit increased by 18% year-on-year in 2010, reaching 3.64 billion euros, and total revenue grew by 3% to 9.33 billion euros. 
+
+First, let's break down the components:
+- **Operating Profit**: Increased by 18%, which is a significant growth",few_shot
+27,"Operating profit for the nine-month period increased from EUR13 .6 m , while net sales increased fro...",positive,positive,"To determine the sentiment of the provided financial news text, we need to analyze the key terms and context. The text states that operating profit for the nine-month period increased from EUR13.6 million, while net sales increased from EUR394.7 million compared to the same period in 2005. 
+
+Breaking this down:
+- **Operating profit** is a positive financial metric as an increase indicates improved profitability.
+- **Net sales** also increased, which is another positive sign",few_shot
+28,Operating profit for the nine-month period increased from EUR3 .1 m and net sales increased from EUR...,positive,positive,"To determine the sentiment of the provided financial news text, we need to analyze the key terms and context. The text states that operating profit for the nine-month period increased from EUR3.1 million and net sales increased from EUR61.5 million compared to the same period in 2007. Both operating profit and net sales are positive indicators of financial performance. An increase in these metrics generally signifies a favorable financial position, which would be considered a positive sentiment.
+
+Here's the step-by",few_shot
+29,"Operating profit for the three-month period increased from EUR1 .2 m , while revenue increased from ...",positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the key terms and context. The text states that ""operating profit for the three-month period increased from EUR1.2 m"" while ""revenue increased from EUR20.2 m."" Both operating profit and revenue are positive indicators for a company's financial health. An increase in these metrics typically signifies growth or improved performance, which is generally viewed favorably by investors and analysts.
+
+Here’s the breakdown:
+- **",few_shot
+30,"The Brazilian unit of Finnish security solutions provider F-Secure signed up 1,500 new clients last ...",positive,unknown,"To determine the sentiment of the provided text, we need to analyze the context and key phrases within it. The text states that F-Secure's Brazilian unit signed up 1,500 new clients last year, according to Reseller Web. Here’s a step-by-step breakdown:
+
+1. **Identify Key Information**: The main point here is the signing of 1,500 new clients by F-Secure’s Brazilian division. This indicates growth in client base, which is generally",few_shot
+31,The company 's net profit rose 11.4 % on the year to 82.2 million euros in 2005 on sales of 686.5 mi...,positive,unknown,"To classify the sentiment of the given financial news text, I'll analyze the key components and their implications:
+
+**Text:**  
+""The company's net profit rose 11.4% on the year to 82.2 million euros in 2005 on sales of 686.5 million euros, 13.8% up on the year, the company said earlier.""
+
+### Key Points:
+1. **Net Profit Growth:**  
+   - The net profit increased",few_shot
+32,"The Lithuanian beer market made up 14.41 million liters in January , a rise of 0.8 percent from the ...",positive,unknown,"To classify the sentiment of the given text, we need to analyze the context and key terms provided. The text states that the Lithuanian beer market had a 0.8 percent rise in January compared to the previous year. Here's the step-by-step breakdown:
+
+1. **Identify Key Information**:  
+   - The Lithuanian beer market increased by 0.8% from the year-earlier figure.  
+   - This is a growth rate, which typically indicates positive economic",few_shot
+33,"Viking Line 's cargo revenue increased by 5.4 % to EUR 21.46 mn , and cargo volume increased by 2.4 ...",positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the context and key figures mentioned. The text states that Viking Line's cargo revenue increased by 5.4% to EUR 21.46 million, and cargo volume increased by 2.4% to 70,116 units. Both metrics (revenue and volume) are showing growth, which is a positive indicator for the company's performance in its cargo segment.
+
+### Key Analysis:
+1",few_shot
+34,The fair value of the property portfolio doubled as a result of the Kapiteeli acquisition and totall...,positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the context and key terms used in the statement. The text states that the fair value of the property portfolio doubled due to the Kapiteeli acquisition and totals EUR 2,686.2 million (with a possible typo or formatting issue regarding ""1,259.7 million""). 
+
+First, let's break down the components:
+- **Fair value doubling**: This is a significant positive financial metric indicating growth",few_shot
+35,10 February 2011 - Finnish media company Sanoma Oyj HEL : SAA1V said yesterday its 2010 net profit a...,positive,unknown,"To classify the sentiment of the provided financial news text, I'll analyze the key components of the message. The text mentions that Sanoma Oyj's net profit almost tripled from 2009 to 2010 and announced a proposal for a higher payout. Here’s the breakdown:
+
+1. **Net Profit Growth**: A tripling of net profit is a significant positive financial metric, indicating strong profitability and improved performance compared to the previous year.
+2. **Payout Proposal",few_shot
+36,"A Helsinki : ELIiV today reported EPS of EUR1 .13 for 2009 , an increase over EPS of EUR1 .12 in 200...",positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the content and context. The text states that ELIiV (likely a company name) reported an earnings per share (EPS) increase from EUR1.12 in 2008 to EUR1.13 in 2009. 
+
+Key points:
+- EPS increased slightly, which is generally positive as it indicates profitability.
+- The increase is minimal (only 0.01 EUR),",few_shot
+37,"Aspo Plc STOCK EXCHANGE RELEASE February 11 , 2011 at8 .45 a.m. ESL Shipping Ltd , part of Aspo Grou...",positive,unknown,"To classify the sentiment of the provided financial news text, we need to analyze the content and context. The text mentions that ESL Shipping Ltd, part of Aspo Group, has signed a new long-term contract with Rautaruukki Corporation for marine transport services on the Baltic Sea. Here's the step-by-step breakdown:
+
+1. **Identify Key Entities**: The main entities involved are Aspo Plc (the parent company), ESL Shipping Ltd (a subsidiary), and Rautaruukki",few_shot
+38,"Commission income increased by 22 % to EUR 4.4 mn , and lending volume rose by 13.5 % ....",positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the context and key terms used in the statement. The text states: ""Commission income increased by 22% to EUR 4.4 mn, and lending volume rose by 13.5%."" 
+
+First, let's break down the components:
+- **Commission income**: This is a financial metric indicating revenue generated from commissions. An increase in commission income typically reflects higher earnings or more successful transactions, which are",few_shot
+39,"In January , traffic , measured in revenue passenger kilometres RPK , went up by 3.2 % and capacity ...",positive,unknown,"To determine the sentiment of the given financial news text, we need to analyze the context provided. The text states that traffic (measured in revenue passenger kilometers RPK) increased by 3.2% and capacity (available seat kilometers ASK) rose by 12.2% in January. 
+
+First, let's break down the components:
+- **Traffic (RPK)**: A positive increase of 3.2%. This indicates more passengers are traveling, which is typically a good",few_shot
+40,"In January-September 2010 , Fiskars ' net profit went up by 14 % year-on-year to EUR 65.4 million an...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the key information provided and determine whether it reflects a positive, negative, or neutral outlook.
+
+**Step-by-Step Analysis:**
+
+1. **Identify Key Metrics:**
+   - The text mentions Fiskars' net profit increased by 14% year-on-year (from January-September 2009 to January-September 2010).
+   - Net profit went up from an unspecified amount",few_shot
+41,"Net income from life insurance rose to EUR 16.5 mn from EUR 14.0 mn , and net income from non-life i...",positive,unknown,"To classify the sentiment of the given financial news text, we need to analyze the content and determine whether it conveys a positive, negative, or neutral tone. Let's break down the information provided:
+
+**Text:**  
+""Net income from life insurance rose to EUR 16.5 mn from EUR 14.0 mn, and net income from non-life insurance to EUR 22.6 mn from EUR 15.2 mn in 2009.""
+
+### Key",few_shot
+42,"Nyrstar has also agreed to supply to Talvivaara up to 150,000 tonnes of sulphuric acid per annum for...",positive,unknown,"To classify the sentiment of the given financial news text, I need to analyze the content and context provided. The text states that Nyrstar has agreed to supply up to 150,000 tonnes of sulphuric acid per annum to Talvivaara for use in their leaching process during the period of supply of zinc in concentrate.
+
+First, let's break down the key components:
+- **Nyrstar** is a company involved in the supply of sulphuric acid",few_shot
+43,"Sales for both the Department Store Division and Hobby Hall increased by 7 % , while sales for the c...",positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the context and the numerical changes mentioned. The text states that sales for two divisions (Department Store Division and Hobby Hall) increased by 7%, while sales for a subsidiary (Seppala) decreased by 4%. 
+
+First, let's break down the components:
+- **Positive aspect**: Two out of three segments (two divisions) saw an increase in sales. This is generally favorable as it indicates growth in certain areas",few_shot
+44,Sales have risen in other export markets ....,positive,unknown,"To determine the sentiment of the given financial news text, we need to analyze the context and keywords provided. The text states: ""Sales have risen in other export markets."" 
+
+First, let's break down the components of this statement:
+- **Key term**: Sales have risen.
+- **Context**: This is about sales performance in export markets.
+
+In financial terms, an increase in sales typically indicates growth or improvement in business performance. Since the text specifies that sales are rising specifically in other export markets,",few_shot
+45,Sales increased due to growing market rates and increased operations ....,positive,positive,"positive
+
+**Reasoning:** The text states that sales have increased because of two factors: growing market rates (which likely indicate higher demand or more favorable economic conditions) and increased operations (suggesting expanded business activities). Both reasons contribute positively to the company's financial performance. There are no negative indicators mentioned, so the overall sentiment is positive.",few_shot
+46,The agreement strengthens our long-term partnership with Nokia Siemens Networks ....,positive,unknown,"To determine the sentiment of the given financial news text, we need to analyze the context and keywords provided. Let's break down the sentence:
+
+**Text:** ""The agreement strengthens our long-term partnership with Nokia Siemens Networks.""
+
+### Key Analysis:
+1. **Contextual Understanding:**  
+   - The phrase ""strengthens our long-term partnership"" indicates a positive development in business relationships. Partnerships are typically formed to achieve mutual benefits, such as shared resources, technology, or market access.
+   - Long",few_shot
+47,"The agreement was signed with Biohit Healthcare Ltd , the UK-based subsidiary of Biohit Oyj , a Finn...",positive,unknown,"To determine the sentiment of the provided financial news text, we need to analyze the context and tone of the information presented. The text states that an agreement was signed with Biohit Healthcare Ltd, a UK-based subsidiary of Biohit Oyj, which is a Finnish public company involved in developing, manufacturing, and marketing liquid handling products and diagnostic test systems.
+
+First, let's break down the key components of the text:
+1. **Agreement**: This indicates a business transaction or partnership has been established",few_shot
+48,The company also estimates the already carried out investments to lead to an increase in its net sal...,positive,unknown,"To determine the sentiment of the given financial news text, we need to analyze the context and key terms provided. The text states that the company estimates investments already carried out will lead to an increase in net sales for 2010 compared to 2009, where net sales reached EUR 141.7 million.
+
+### Key Analysis:
+1. **Increase in Net Sales**: The phrase ""lead to an increase"" directly indicates a positive expectation regarding future performance. This is a",few_shot
+49,"The company 's order book stood at 1.5 bln euro $ 2.2 bln on September 30 , 2007 , up by 24.2 pct on...",positive,unknown,"To classify the sentiment of the given financial news text, I'll analyze the key components and context provided in the sentence.
+
+**Text:**  
+""The company's order book stood at 1.5 bln euro $2.2 bln on September 30, 2007, up by 24.2 pct on the year, with international orders amounting to 365 mln euro $534.3 mln.""
+
+**Step-by-Step Analysis",few_shot
+0,"According to Gran , the company has no plans to move all production to Russia , although that is whe...",neutral,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions ""Gran,"" which appears to be a company name. The key actions here are related to production relocation. Specifically, the company states it has no plans to move all production to Russia, even though Russia is where they are growing.
+
+**Step 2: Determine Overall Tone**
+
+The statement indicates that despite growth in Russia, the company does not intend to fully relocate its production there. This suggests a strategic decision to maintain operations elsewhere",chain_of_thought
+1,"Technopolis plans to develop in stages an area of no less than 100,000 square meters in order to hos...",neutral,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions ""Technopolis,"" which appears to be a company or development project focused on technology. The key action here is that Technopolis plans to develop an area of no less than 100,000 square meters in stages. This development is intended to host companies working in computer technologies and telecommunications.
+
+**Step 2: Determine the Tone**
+
+The statement indicates a planned expansion by Technopolis into a tech",chain_of_thought
+2,The international electronic industry company Elcoteq has laid off tens of employees from its Tallin...,negative,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions:
+- **Elcoteq**: An international electronic industry company (the subject of the action).
+- **Tallinn facility**: A specific location where layoffs occurred.
+- **Layoffs**: Reduction in workforce, which is a negative employment action.
+
+**Step 2: Determine Overall Tone**
+
+The text states that Elcoteq has laid off tens of employees from its Tallinn facility. This is a direct mention",chain_of_thought
+3,With the new production plant the company would increase its capacity to meet the expected increase ...,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions a company establishing a new production plant. The key entities here are ""the company"" and ""raw materials."" The actions described include increasing capacity to meet demand, improving raw material usage, and enhancing production profitability.
+
+**Step 2: Determine Overall Tone**
+
+Breaking down the sentence structure:
+- ""With the new production plant,"" introduces a positive action (investment in infrastructure).
+- ""Increase its capacity"" implies expansion, which is",chain_of_thought
+4,"According to the company 's updated strategy for the years 2009-2012 , Basware targets a long-term n...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions Basware's updated strategy for 2009-2012. The key financial entities here are:
+
+- **Basware**: The company in question.
+- **Net sales growth**: Targeted at 20%–40% over the period.
+- **Operating profit margin**: Aimed to be between 10% and 20% of net sales.
+
+The actions described are setting strategic",chain_of_thought
+5,FINANCING OF ASPOCOMP 'S GROWTH Aspocomp is aggressively pursuing its growth strategy by increasingl...,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions ""Aspocomp,"" which appears to be a company name. The key action here is that Aspocomp is ""aggressively pursuing its growth strategy."" Additionally, they are focusing on ""technologically more demanding HDI printed circuit boards (PCBs)."" 
+
+**Step 2: Determine the Tone**
+
+The term ""aggressively"" suggests a proactive approach to growth, which is generally seen as a positive",chain_of_thought
+6,"For the last quarter of 2010 , Componenta 's net sales doubled to EUR131m from EUR76m for the same p...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions Componenta, a company, and provides details about its financial performance for the last quarter of 2010. The key figures are:
+
+- **Net sales**: Doubled to EUR131 million from EUR76 million year-over-year.
+- **Pre-tax profit**: Moved from a pre-tax loss of EUR7 million to zero (i.e., breakeven).
+
+**Step 2: Determine the Tone",chain_of_thought
+7,"In the third quarter of 2010 , net sales increased by 5.2 % to EUR 205.5 mn , and operating profit b...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions two main financial metrics for the third quarter of 2010:
+- **Net sales**: Increased by 5.2% to EUR 205.5 million.
+- **Operating profit**: Increased by 34.9% to EUR 23.5 million.
+
+These are both positive indicators as they show growth in revenue and profitability compared to the previous period or year-over-year basis (assuming this",chain_of_thought
+8,Operating profit rose to EUR 13.1 mn from EUR 8.7 mn in the corresponding period in 2007 representin...,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions ""operating profit"" which is a financial metric indicating profitability from core business operations. The operating profit increased from EUR 8.7 million in 2007 to EUR 13.1 million, representing a rise of approximately 51% (from 8.7 to 13.1). Additionally, the text states that this represents 7.7% of net sales, which is a",chain_of_thought
+9,"Operating profit totalled EUR 21.1 mn , up from EUR 18.6 mn in 2007 , representing 9.7 % of net sale...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions ""operating profit"" which is a financial metric. The numbers provided are EUR 21.1 million (current year) and EUR 18.6 million (2007). There's also a percentage mentioned, 9.7% of net sales. The comparison is between the current year and 2007.
+
+**Step 2: Determine Overall Tone**
+
+The operating profit increased from",chain_of_thought
+10,TeliaSonera TLSN said the offer is in line with its strategy to increase its ownership in core busin...,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions ""TeliaSonera TLSN"" which is a company name. The action here is that TeliaSonera is making an offer to increase its ownership in Eesti Telekom, another company. The specific details of the offer aren't provided beyond stating it's aligned with their strategy.
+
+**Step 2: Determine Overall Tone**
+
+The phrase ""in line with its strategy"" suggests that this move aligns with what Tel",chain_of_thought
+11,"STORA ENSO , NORSKE SKOG , M-REAL , UPM-KYMMENE Credit Suisse First Boston ( CFSB ) raised the fair ...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions four Nordic forestry companies: STORA ENSO, NORSKE SKOG, M-REAL, and UPM-KYMMENE. The action taken by Credit Suisse First Boston (CFSB) is raising the ""fair value"" for shares in these companies. 
+
+**Step 2: Determine Overall Tone**
+
+The phrase ""raised the fair value"" indicates that CFSB has increased its assessment of the intrinsic",chain_of_thought
+12,"A purchase agreement for 7,200 tons of gasoline with delivery at the Hamina terminal , Finland , was...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions a purchase agreement for gasoline. The key entities here are:
+- **Neste Oil OYj**: A Finnish oil company that produces biofuels, renewable diesel, and other energy products.
+- **Hamina Terminal, Finland**: The delivery location for the gasoline.
+
+The action described is signing a purchase agreement for 7,200 tons of gasoline. The terms include:
+- Delivery at Hamina terminal in September",chain_of_thought
+13,Finnish Talentum reports its operating profit increased to EUR 20.5 mn in 2005 from EUR 9.3 mn in 20...,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions:
+- **Finnish Talentum**: The company reporting financial results.
+- **Operating Profit**: Increased from EUR 9.3 million in 2004 to EUR 20.5 million in 2005.
+- **Net Sales**: Increased from EUR 96.4 million in 2004 to EUR 103.3 million in 2005.",chain_of_thought
+14,"Clothing retail chain Sepp+ñl+ñ 's sales increased by 8 % to EUR 155.2 mn , and operating profit ros...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions a clothing retail chain named ""Sepp+ñl+ñ"". The key financial actions here are:
+- Sales increased by 8% to EUR 155.2 million.
+- Operating profit rose from EUR 17.1 million in 2004 to EUR 31.1 million.
+
+**Step 2: Determine the Tone**
+
+The text states that sales and operating profit both improved (",chain_of_thought
+15,"Consolidated net sales increased 16 % to reach EUR74 .8 m , while operating profit amounted to EUR0 ...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions two main financial metrics:
+- **Consolidated net sales**: Increased by 16% to reach EUR74.8 million.
+- **Operating profit**: Amounted to EUR0.9 million compared to a loss of EUR0.7 million in the prior year.
+
+**Step 2: Determine Overall Tone**
+
+To assess the sentiment, we analyze both the absolute and relative changes:
+- **Net sales growth**:",chain_of_thought
+16,Foundries division reports its sales increased by 9.7 % to EUR 63.1 mn from EUR 57.5 mn in the corre...,positive,unknown,"**Step 1: Identify the key financial entities and actions**
+
+The text mentions two divisions of a company: the Foundries division and the Machine Shop division. The key actions here are the sales increases reported by these divisions. Specifically:
+
+- **Foundries division**: Sales increased by 9.7% to EUR 63.1 million from EUR 57.5 million in 2006.
+- **Machine Shop division**: Sales increased by 16.4% to",chain_of_thought
+17,"HELSINKI ( AFX ) - Shares closed higher , led by Nokia after it announced plans to team up with Sany...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions two main companies: **Nokia** and **Nokian Tyres**. The actions described are:
+
+- Nokia announced plans to team up with Sanyo for manufacturing 3G handsets.
+- Nokian Tyres reported fourth-quarter earnings that beat analysts' expectations.
+
+Additionally, the overall market reaction is noted as shares closing higher (positive), led by these two companies.
+
+**Step 2: Determine Overall",chain_of_thought
+18,"Incap Contract Manufacturing Services Pvt Ltd , a subsidiary of Incap Corporation of Finland , plans...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions ""Incap Contract Manufacturing Services Pvt Ltd,"" which is a subsidiary of ""Incap Corporation of Finland."" The key action here is that this subsidiary plans to double its revenues by 2007-2008. 
+
+**Step 2: Determine the Tone**
+
+The phrase ""plans to double its revenues"" indicates an ambitious growth target. Doubling revenue typically implies significant expansion, which is a positive sign for",chain_of_thought
+19,"Its board of directors will propose a dividend of EUR0 .12 per share for 2010 , up from the EUR0 .08...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions a company's board of directors proposing a dividend. The key entities here are the ""board of directors"" and the company itself (implied by the context). The actions include:
+
+- **Dividend Proposal**: EUR0.12 per share for 2010.
+- **Comparison to Previous Year**: Up from EUR0.08 per share in 2009.
+
+**Step 2: Determine",chain_of_thought
+20,"Lifetree was founded in 2000 , and its revenues have risen on an average by 40 % with margins in lat...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions ""Lifetree,"" which is a company. The key actions described are its founding in 2000 and subsequent revenue growth at an average rate of 40% with margins in the late 30s (i.e., around 35-37%). 
+
+**Step 2: Determine Overall Tone**
+
+The text states that revenues have risen by an average of 40%, which is",chain_of_thought
+21,( Filippova ) A trilateral agreement on investment in the construction of a technology park in St Pe...,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions a ""trilateral agreement on investment in the construction of a technology park in St Petersburg."" The key entities here are:
+- **Investors**: Not explicitly named, but implied as part of the trilateral agreement.
+- **Location**: St Petersburg (Russia).
+- **Project**: Construction of a technology park.
+
+The action is signing an agreement to invest in this project during the ""Days of the Russian Economy"" forum in Helsinki",chain_of_thought
+22,"MegaFon 's subscriber base increased 16.1 % in 2009 to 50.5 million users as of December 31 , while ...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions MegaFon's subscriber base increased by 16.1% in 2009 to reach 50.5 million users as of December 31. Additionally, its market share by the number of customers was 24% at the end of 2009, up from 23% at the end of 2008. The data is based on estimates provided by",chain_of_thought
+23,"Net income from life insurance doubled to EUR 6.8 mn from EUR 3.2 mn , and net income from non-life ...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions two types of insurance: life insurance and non-life insurance. The key actions here are the changes in net income for both categories. Specifically:
+
+- **Life Insurance**: Net income doubled from EUR 3.2 million to EUR 6.8 million.
+- **Non-Life Insurance**: Net income increased from EUR 1.5 million to EUR 5.2 million.
+
+**Step 2: Determine Overall Tone**
+
+To",chain_of_thought
+24,Net sales increased to EUR193 .3 m from EUR179 .9 m and pretax profit rose by 34.2 % to EUR43 .1 m. ...,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text provided discusses financial results for a company. The key entities here are ""Net sales"" and ""pretax profit."" The actions mentioned are an increase in net sales and a rise in pretax profit by 34.2%. Additionally, there's a conversion rate given (EUR1 = USD1.4), which might be relevant for international financial reporting but doesn't directly impact the sentiment analysis.
+
+**Step 2: Determine",chain_of_thought
+25,"Net sales surged by 18.5 % to EUR167 .8 m. Teleste said that EUR20 .4 m , or 12.2 % , of the sales c...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions Teleste as the company. The key financial figures are:
+- Net sales increased by 18.5% to EUR167.8 million.
+- Acquisitions made in 2009 contributed EUR20.4 million (12.2%) of the total sales.
+
+**Step 2: Determine Overall Tone**
+
+The text starts with ""Net sales surged by 18.5%"", which",chain_of_thought
+26,Nordea Group 's operating profit increased in 2010 by 18 percent year-on-year to 3.64 billion euros ...,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions ""Nordea Group,"" which is a financial institution. The key actions here are:
+- Operating profit increased by 18% year-on-year (from 2009 to 2010).
+- Total revenue increased by 3% year-on-year.
+- Specific figures provided: operating profit of 3.64 billion euros and total revenue of 9.33 billion euros in 20",chain_of_thought
+27,"Operating profit for the nine-month period increased from EUR13 .6 m , while net sales increased fro...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions two main financial metrics:
+- **Operating profit**: Increased from EUR13.6 million to an unspecified amount (since only the increase is mentioned, not the new value).
+- **Net sales**: Increased from EUR394.7 million compared to the same period in 2005.
+
+Additionally, the text states that these increases occurred ""as compared to the corresponding period in 2005,"" indicating",chain_of_thought
+28,Operating profit for the nine-month period increased from EUR3 .1 m and net sales increased from EUR...,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions two main financial metrics:
+- **Operating profit**: Increased from EUR3.1 million to an unspecified amount (since only the increase is mentioned).
+- **Net sales**: Increased from EUR61.5 million to another unspecified amount.
+
+Additionally, there's a comparison to the corresponding period in 2007, indicating year-over-year growth.
+
+**Step 2: Determine Overall Tone**
+
+The text states that both operating",chain_of_thought
+29,"Operating profit for the three-month period increased from EUR1 .2 m , while revenue increased from ...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions two main financial metrics:
+- **Operating profit**: Increased from EUR1.2 million.
+- **Revenue**: Increased from EUR20.2 million.
+
+Both figures are compared to the corresponding period in 2005, indicating a year-over-year comparison. The use of ""increased"" for both metrics suggests positive growth in profitability and sales relative to the prior year.
+
+**Step 2: Determine Overall Tone**",chain_of_thought
+30,"The Brazilian unit of Finnish security solutions provider F-Secure signed up 1,500 new clients last ...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions:
+- **F-Secure**: A Finnish security solutions provider (company name).
+- **Brazilian unit**: A subsidiary or division of F-Secure operating in Brazil.
+- **Vladimir Brandúo**: Commercial director of the Brazilian unit.
+- **1,500 new clients signed up last year**: This is a numerical figure indicating growth.
+
+**Step 2: Determine Overall Tone**
+
+The text states that",chain_of_thought
+31,The company 's net profit rose 11.4 % on the year to 82.2 million euros in 2005 on sales of 686.5 mi...,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions:
+- **Net profit**: Increased by 11.4% year-over-year (YoY) to €82.2 million in 2005.
+- **Sales**: Grew by 13.8% YoY to €686.5 million in 2005.
+
+**Key Actions**:
+- Profit growth: Positive indicator of financial performance.
+- Sales growth: Another",chain_of_thought
+32,"The Lithuanian beer market made up 14.41 million liters in January , a rise of 0.8 percent from the ...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions the Lithuanian beer market. The key action here is a **14.41 million liters** of beer sold in January, which represents an **increase of 0.8%** compared to the same period last year. The source of this data is the Lithuanian Brewers' Association, as reported by its members.
+
+**Step 2: Determine Overall Tone**
+
+The text states that there was a rise",chain_of_thought
+33,"Viking Line 's cargo revenue increased by 5.4 % to EUR 21.46 mn , and cargo volume increased by 2.4 ...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions ""Viking Line,"" which is a company operating in the shipping industry. The financial actions described are an increase in cargo revenue by 5.4% to EUR 21.46 million, and a corresponding increase in cargo volume by 2.4% to 70,116 units.
+
+**Step 2: Determine Overall Tone**
+
+The text states that both revenue and volume increased. An increase",chain_of_thought
+34,The fair value of the property portfolio doubled as a result of the Kapiteeli acquisition and totall...,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions a property portfolio's fair value doubling due to the Kapiteeli acquisition. The numerical values provided are EUR 2,686.2 million (total) and EUR 1,259.7 million (previous value or part of the acquisition). The key entities here are ""property portfolio,"" ""Kapiteeli acquisition,"" and the financial figures associated with them.
+
+**Step 2: Determine Overall Tone",chain_of_thought
+35,10 February 2011 - Finnish media company Sanoma Oyj HEL : SAA1V said yesterday its 2010 net profit a...,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions Sanoma Oyj HEL (a Finnish media company), its net profit for 2010, and a proposal for increased dividends. The key figures are:
+- **Net Profit**: Increased from EUR107.1 million in 2009 to almost triple that amount (EUR297.3 million) in 2010.
+- **Proposal**: A plan to raise the dividend",chain_of_thought
+36,"A Helsinki : ELIiV today reported EPS of EUR1 .13 for 2009 , an increase over EPS of EUR1 .12 in 200...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions ""ELIiV"" (likely a company name) reporting EPS (Earnings Per Share) for 2009. The key figures here are:
+- **EPS in 2009**: EUR1.13
+- **EPS in 2008**: EUR1.12
+
+The action described is an increase in EPS from 2008 to 2009",chain_of_thought
+37,"Aspo Plc STOCK EXCHANGE RELEASE February 11 , 2011 at8 .45 a.m. ESL Shipping Ltd , part of Aspo Grou...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions:
+- **Aspo Plc**: The parent company of ESL Shipping Ltd.
+- **ESL Shipping Ltd**: A subsidiary of Aspo Group involved in marine transportation.
+- **Rautaruukki Corporation**: The client for whom ESL Shipping has secured a new contract.
+
+The action described is the signing of a **new, long-term contract** between ESL Shipping and Rautaruukki Corporation. This contract pertains",chain_of_thought
+38,"Commission income increased by 22 % to EUR 4.4 mn , and lending volume rose by 13.5 % ....",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions two main components:
+- **Commission income**: Increased by 22% to EUR 4.4 million.
+- **Lending volume**: Rose by 13.5%.
+
+These are both positive indicators for the financial entity (likely a bank or financial services company) as they show growth in income and lending activities.
+
+**Step 2: Determine Overall Tone**
+
+Both figures (22% increase in commission income and",chain_of_thought
+39,"In January , traffic , measured in revenue passenger kilometres RPK , went up by 3.2 % and capacity ...",positive,unknown,"**Step 1: Identify the key financial entities and actions**
+
+The text mentions two key metrics for the airline industry: **Revenue Passenger Kilometers (RPK)** and **Available Seat Kilometers (ASK)**. The data provided is for January, showing an increase in RPK by 3.2% and a rise in ASK by 12.2%. 
+
+- **RPK** measures the number of passengers multiplied by the distance they traveled. An increase here suggests higher passenger demand",chain_of_thought
+40,"In January-September 2010 , Fiskars ' net profit went up by 14 % year-on-year to EUR 65.4 million an...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions Fiskars, a company, and provides details about its financial performance in January-September 2010. The key actions here are:
+
+- **Net profit increased by 14% year-on-year**: This indicates growth in profitability.
+- **Net sales rose from EUR 487.7 million to EUR 525.3 million**: An increase in revenue, which is a positive sign for",chain_of_thought
+41,"Net income from life insurance rose to EUR 16.5 mn from EUR 14.0 mn , and net income from non-life i...",positive,unknown,"**Step 1: Identify the key financial entities and actions**
+
+The text mentions two types of insurance: life insurance and non-life insurance. The net income figures for both are provided for two years (2009 and a previous year, likely 2008 since the comparison is to EUR 14.0 mn and EUR 15.2 mn). Specifically:
+
+- **Life Insurance**: Net income rose from EUR 14.0 million in the prior period to EUR",chain_of_thought
+42,"Nyrstar has also agreed to supply to Talvivaara up to 150,000 tonnes of sulphuric acid per annum for...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions two companies: **Nyrstar** (a zinc producer) and **Talvivaara** (likely a mining company). The key action here is an agreement between these two entities to supply up to 150,000 tonnes of sulphuric acid annually for Talvivaara's leaching process. This involves a contractual obligation from Nyrstar to provide the chemical needed for Talviva",chain_of_thought
+43,"Sales for both the Department Store Division and Hobby Hall increased by 7 % , while sales for the c...",positive,unknown,"**Step 1: Identify the key financial entities and actions**
+
+The text mentions three main components:
+- **Department Store Division**: Sales increased by 7%.
+- **Hobby Hall**: Sales increased by 7% (same as Department Store Division).
+- **Seppala (clothing store subsidiary)**: Sales decreased by 4%.
+
+**Step 2: Determine the overall tone**
+
+To assess the sentiment, we need to consider how these changes are presented. The text states that two",chain_of_thought
+44,Sales have risen in other export markets ....,positive,neutral,"**Step 1: Identify the key financial entities and actions**
+
+The text provided is ""Sales have risen in other export markets."" Here, the key financial entity is the company or business mentioned (implied by ""sales""), and the action is that sales have increased (""have risen""). The specific market segment highlighted is ""other export markets,"" which indicates international expansion or performance outside domestic markets.
+
+**Step 2: Determine if the overall tone is favorable, unfavorable, or neutral**
+
+To assess the sentiment",chain_of_thought
+45,Sales increased due to growing market rates and increased operations ....,positive,positive,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions ""sales increased"" which refers to revenue growth. The reasons provided are ""growing market rates"" (likely interest rates affecting financial products like bonds) and ""increased operations,"" meaning expanded business activities or higher production/sales efforts.
+
+**Step 2: Determine Overall Tone**
+
+- **Sales Increased**: This is a positive indicator as higher sales typically mean better performance.
+- **Growing Market Rates**: Higher interest rates can positively",chain_of_thought
+46,The agreement strengthens our long-term partnership with Nokia Siemens Networks ....,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions ""the agreement"" which refers to a business arrangement between two entities. The specific entities here are ""our"" (presumably the company making the statement) and ""Nokia Siemens Networks."" The action described is that this agreement ""strengthens our long-term partnership.""
+
+**Step 2: Determine Overall Tone**
+
+The term ""strengthens"" implies an improvement or positive development in the relationship with Nokia Siemens Networks. A strengthened partnership",chain_of_thought
+47,"The agreement was signed with Biohit Healthcare Ltd , the UK-based subsidiary of Biohit Oyj , a Finn...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions an agreement signed with **Biohit Healthcare Ltd**, which is a subsidiary of **Biohit Oyj**, a Finnish public company. The actions here are the signing of the agreement, which implies some form of business transaction or collaboration. The entities involved are Biohit Healthcare (UK-based subsidiary) and Biohit Oyj (Finnish parent company). The context also provides details about the nature of their products: liquid",chain_of_thought
+48,The company also estimates the already carried out investments to lead to an increase in its net sal...,positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions a company making an estimate about future net sales based on already carried out investments. The key elements here are:
+- **Net Sales**: A financial metric indicating revenue from goods sold or services provided.
+- **2010 vs. 2009**: Comparing the projected sales for two consecutive years.
+- **Increase**: The company expects growth in net sales due to prior investments.
+
+**Step 2: Determine",chain_of_thought
+49,"The company 's order book stood at 1.5 bln euro $ 2.2 bln on September 30 , 2007 , up by 24.2 pct on...",positive,unknown,"**Step 1: Identify Key Financial Entities and Actions**
+
+The text mentions a company's order book as of September 30, 2007. The key figures are:
+- Order book value: 1.5 billion euros ($2.2 billion)
+- Year-over-year growth: +24.2%
+- International orders: 365 million euros ($534.3 million)
+
+**Step 2: Determine Overall Tone**
+
+The text states that the order",chain_of_thought
+0,"According to Gran , the company has no plans to move all production to Russia , although that is whe...",neutral,unknown,"To determine the sentiment of the given text, we need to analyze the opinion expressed towards the financial entity (the company in question). The text states: ""According to Gran, the company has no plans to move all production to Russia, although that is where the company is growing.""
+
+### Step-by-Step Analysis:
+1. **Identify Key Phrases**:
+   - ""no plans to move all production to Russia"": This indicates a negative action (not moving) despite an opportunity or pressure to",annotator_instruction
+1,"Technopolis plans to develop in stages an area of no less than 100,000 square meters in order to hos...",neutral,unknown,"To determine the sentiment of the given text, we need to analyze the content and context provided. The text states that Technopolis plans to develop an area of no less than 100,000 square meters for hosting companies in computer technologies and telecommunications. 
+
+First, let's break down the key elements:
+- **Technopolis** is mentioned as the entity planning the development.
+- The area size is specified as at least 100,000 square meters.",annotator_instruction
+2,The international electronic industry company Elcoteq has laid off tens of employees from its Tallin...,negative,unknown,"To determine the sentiment of the given text, we need to analyze the context and the key words used. The text states that Elcoteq, an international electronic industry company, has laid off tens of employees from its Tallinn facility. It also mentions that this is a contraction in office workers compared to earlier layoffs, as reported by the daily Postimees.
+
+First, let's break down the components:
+1. **Layoffs**: This is a negative action for employees because it means job",annotator_instruction
+3,With the new production plant the company would increase its capacity to meet the expected increase ...,positive,unknown,"To determine the sentiment of the given text, we need to analyze the language used and the context provided. The text states that the company plans to build a new production plant, which will lead to increased capacity, improved raw material usage, and higher production profitability. 
+
+Breaking it down:
+1. **New production plant**: This is a positive development as it implies expansion and growth.
+2. **Increase in capacity**: More production capability is generally seen as beneficial for meeting demand, which supports business growth.",annotator_instruction
+4,"According to the company 's updated strategy for the years 2009-2012 , Basware targets a long-term n...",positive,unknown,"To determine the sentiment of the provided text, we need to analyze the content and context carefully. The text states that Basware has updated its strategy for the years 2009-2012, targeting a long-term net sales growth between 20% and 40%, along with an operating profit margin ranging from 10% to 20% of net sales.
+
+First, let's break down the key components:
+1. **Net Sales Growth**: The company",annotator_instruction
+5,FINANCING OF ASPOCOMP 'S GROWTH Aspocomp is aggressively pursuing its growth strategy by increasingl...,positive,unknown,"To determine the sentiment of the given text, we need to analyze the language used and the context provided. The text states that Aspocomp is ""aggressively pursuing its growth strategy"" by focusing on technologically advanced HDI printed circuit boards (PCBs). 
+
+Key points:
+1. **Aggressive Pursuit**: The use of ""aggressively"" suggests a proactive and determined approach, which is generally seen as positive in business contexts.
+2. **Growth Strategy**: This indicates",annotator_instruction
+6,"For the last quarter of 2010 , Componenta 's net sales doubled to EUR131m from EUR76m for the same p...",positive,unknown,"To determine the sentiment of the provided text, we need to analyze the information given and identify whether it expresses a positive, negative, or neutral view towards Componenta. Let's break down the text step by step.
+
+The text states:
+- For the last quarter of 2010, Componenta's net sales doubled to EUR131m from EUR76m for the same period a year earlier.
+- It moved to a zero pre-tax profit from a pre-tax loss of EUR",annotator_instruction
+7,"In the third quarter of 2010 , net sales increased by 5.2 % to EUR 205.5 mn , and operating profit b...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the numerical data provided. The text states that in the third quarter of 2010, net sales increased by 5.2% to EUR 205.5 million, and operating profit increased by 34.9% to EUR 23.5 million. 
+
+First, let's break down the components:
+- **Net Sales**: Increased by 5.2%. A positive percentage",annotator_instruction
+8,Operating profit rose to EUR 13.1 mn from EUR 8.7 mn in the corresponding period in 2007 representin...,positive,unknown,"To determine the sentiment of the given text, we need to analyze the content and context provided. The text states that ""Operating profit rose to EUR 13.1 million from EUR 8.7 million in the corresponding period in 2007 representing 7.7% of net sales."" 
+
+First, let's break down the key components:
+- **Operating profit increased**: This is a positive development because higher profits generally indicate better financial performance.
+- **Comparison to previous year**:",annotator_instruction
+9,"Operating profit totalled EUR 21.1 mn , up from EUR 18.6 mn in 2007 , representing 9.7 % of net sale...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the content and context provided. The text states that the operating profit totalled EUR 21.1 million, which is an increase from EUR 18.6 million in 2007. Additionally, it mentions that this represents a 9.7% share of net sales. 
+
+First, let's break down the key components:
+- **Operating Profit**: The figure increased by EUR 2.5 million (",annotator_instruction
+10,TeliaSonera TLSN said the offer is in line with its strategy to increase its ownership in core busin...,positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the key terms used. The text states that TeliaSonera TLSN is making an offer related to increasing ownership in core business holdings and strengthening Eesti Telekom's customer offerings. 
+
+First, let's break down the components:
+1. **TeliaSonera TLSN**: This is a company name, so it's neutral unless there's additional context.
+2. **Offer**: The term ""offer"" here",annotator_instruction
+11,"STORA ENSO , NORSKE SKOG , M-REAL , UPM-KYMMENE Credit Suisse First Boston ( CFSB ) raised the fair ...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the key terms used. The text states that Credit Suisse First Boston (CFSB) raised the fair value for shares in four of the largest Nordic forestry groups. These companies include STORA ENSO, NORSKE SKOG, M-REAL, and UPM-KYMMENE.
+
+First, let's break down the components:
+- **Credit Suisse First Boston** is a financial institution that provides investment",annotator_instruction
+12,"A purchase agreement for 7,200 tons of gasoline with delivery at the Hamina terminal , Finland , was...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the key terms used. The text mentions a purchase agreement for gasoline, which is a business transaction. Let's break it down step by step.
+
+1. **Key Components of the Text**:
+   - A purchase agreement was signed.
+   - Quantity: 7,200 tons of gasoline.
+   - Delivery location: Hamina terminal, Finland.
+   - Counterparty: Neste Oil OYj.",annotator_instruction
+13,Finnish Talentum reports its operating profit increased to EUR 20.5 mn in 2005 from EUR 9.3 mn in 20...,positive,unknown,"To determine the sentiment of the provided text, we need to analyze the context and the numerical data presented. The text states that Finnish Talentum's operating profit increased from EUR 9.3 million in 2004 to EUR 20.5 million in 2005, and net sales rose from EUR 96.4 million to EUR 103.3 million. 
+
+First, let's break down the key figures:
+- Operating profit increased by approximately",annotator_instruction
+14,"Clothing retail chain Sepp+ñl+ñ 's sales increased by 8 % to EUR 155.2 mn , and operating profit ros...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the context provided and identify any opinions or feelings expressed towards the financial entity (Sepp+ñl+ñ). The text mentions that the sales increased by 8% to EUR 155.2 million and operating profit rose to EUR 31.1 million from EUR 17.1 million in 2004. 
+
+First, let's break down the information:
+- Sales growth: 8%,",annotator_instruction
+15,"Consolidated net sales increased 16 % to reach EUR74 .8 m , while operating profit amounted to EUR0 ...",positive,unknown,"To determine the sentiment of the provided text, we need to analyze the key financial metrics mentioned and their context. The text states that consolidated net sales increased by 16% to reach EUR74.8 million, while operating profit amounted to EUR0.9 million compared to a loss of EUR0.7 million in the prior year period.
+
+### Step-by-Step Analysis:
+1. **Net Sales Growth**: A 16% increase in net sales is generally considered positive because it indicates",annotator_instruction
+16,Foundries division reports its sales increased by 9.7 % to EUR 63.1 mn from EUR 57.5 mn in the corre...,positive,unknown,"To determine the sentiment of the provided text, we need to analyze the context and the numerical data presented. The text discusses sales figures for two divisions (Foundries and Machine Shop) over a specific period, showing increases in both cases.
+
+1. **Key Observations**:
+   - Both divisions reported growth: Foundries increased by 9.7%, and Machine Shop increased by 16.4%.
+   - Sales numbers are higher compared to the previous year (2006),",annotator_instruction
+17,"HELSINKI ( AFX ) - Shares closed higher , led by Nokia after it announced plans to team up with Sany...",positive,unknown,"To determine the sentiment of the provided text, we need to analyze the context and the key elements mentioned. The text is a financial news snippet from AFX (a financial information service) reporting on shares closing higher in Helsinki. Let's break it down step by step.
+
+1. **Key Entities Mentioned**:
+   - Nokia: Announced plans to team up with Sanyo for manufacturing 3G handsets.
+   - Nokian Tyres: Reported fourth-quarter earnings that beat analysts",annotator_instruction
+18,"Incap Contract Manufacturing Services Pvt Ltd , a subsidiary of Incap Corporation of Finland , plans...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the content and context provided. The text states that ""Incap Contract Manufacturing Services Pvt Ltd, a subsidiary of Incap Corporation of Finland, plans to double its revenues by 2007-2008."" 
+
+First, let's break down the key elements:
+1. **Company**: Incap Contract Manufacturing Services Pvt Ltd (a subsidiary).
+2. **Goal**: To double its revenues.
+3. **Timeline**:",annotator_instruction
+19,"Its board of directors will propose a dividend of EUR0 .12 per share for 2010 , up from the EUR0 .08...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the key elements provided. The text states that the board of directors will propose a dividend of EUR0.12 per share for 2010, which is an increase from the EUR0.08 per share paid in 2009. 
+
+First, let's break down the information:
+- **Dividend proposal**: The company is planning to pay a dividend of EUR0.12 per",annotator_instruction
+20,"Lifetree was founded in 2000 , and its revenues have risen on an average by 40 % with margins in lat...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the language used and the context provided. The text states that Lifetree was founded in 2000 and has seen an average revenue growth of 40% with margins in the late 30s. 
+
+First, let's break down the key components:
+1. **Founding Year**: The company started in 2000, which is a neutral fact.
+2. **Revenue Growth**: An average",annotator_instruction
+21,( Filippova ) A trilateral agreement on investment in the construction of a technology park in St Pe...,positive,unknown,"To determine the sentiment of the provided text, we need to analyze the context and the key terms used. The text mentions a trilateral agreement on investment in constructing a technology park in St Petersburg during an event called ""Days of the Russian Economy"" held in Helsinki.
+
+First, let's break down the components:
+1. **Trilateral Agreement**: This implies collaboration between three parties, which is generally seen as a positive development because it involves multiple stakeholders working together.
+2. **Investment in Technology Park",annotator_instruction
+22,"MegaFon 's subscriber base increased 16.1 % in 2009 to 50.5 million users as of December 31 , while ...",positive,unknown,"To determine the sentiment of the provided text, we need to analyze the context and the key figures mentioned. The text discusses MegaFon's subscriber base growth and market share changes in 2009 compared to the previous year. Here’s a step-by-step breakdown:
+
+1. **Key Figures**:
+   - Subscriber base increased by 16.1% in 2009.
+   - Market share by number of customers was 24% as of late 20",annotator_instruction
+23,"Net income from life insurance doubled to EUR 6.8 mn from EUR 3.2 mn , and net income from non-life ...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the numerical data provided. The text states that net income from life insurance doubled and net income from non-life insurance rose compared to the same period in 2009. Here's a step-by-step breakdown:
+
+1. **Identify Key Figures**:  
+   - Life Insurance Net Income: Doubled from EUR 3.2 million to EUR 6.8 million.  
+   - Non-Life Insurance Net Income",annotator_instruction
+24,Net sales increased to EUR193 .3 m from EUR179 .9 m and pretax profit rose by 34.2 % to EUR43 .1 m. ...,positive,positive,"To determine the sentiment of the provided text, we need to analyze the content and context carefully. The text states that net sales increased from EUR179.9 million to EUR193.3 million, which is a positive development. Additionally, pretax profit rose by 34.2% to EUR43.1 million, another positive indicator. The mention of currency conversion (EUR1 = USD1.4) seems neutral as it's just providing an exchange rate for context",annotator_instruction
+25,"Net sales surged by 18.5 % to EUR167 .8 m. Teleste said that EUR20 .4 m , or 12.2 % , of the sales c...",positive,unknown,"To determine the sentiment of the provided text, we need to analyze the language used and the context of the information presented. The text states that ""Net sales surged by 18.5% to EUR167.8 m."" This indicates a significant increase in sales, which is generally seen as a positive financial performance metric. The use of the word ""surged"" implies a sharp rise, which is typically associated with optimism and favorable outcomes.
+
+Additionally, the text mentions that ""EUR2",annotator_instruction
+26,Nordea Group 's operating profit increased in 2010 by 18 percent year-on-year to 3.64 billion euros ...,positive,unknown,"To determine the sentiment of the given text, we need to analyze the language used and the context provided. The text states that Nordea Group's operating profit increased by 18% year-on-year in 2010, and total revenue increased by 3%. Both figures are presented as factual data without any accompanying opinions or evaluations.
+
+### Key Analysis:
+1. **Operating Profit Increase**: A 18% growth in operating profit is a significant positive financial metric. Such an increase typically",annotator_instruction
+27,"Operating profit for the nine-month period increased from EUR13 .6 m , while net sales increased fro...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the language used and the context provided. The text states that ""operating profit for the nine-month period increased from EUR13.6 m"" and ""net sales increased from EUR394.7 m,"" both compared to the corresponding period in 2005. 
+
+Key points:
+1. Both operating profit and net sales are reported as having increased.
+2. The use of ""increased"" indicates a positive",annotator_instruction
+28,Operating profit for the nine-month period increased from EUR3 .1 m and net sales increased from EUR...,positive,unknown,"To determine the sentiment of the given text, we need to analyze the language used and the context provided. The text states that operating profit for the nine-month period increased from EUR3.1 million and net sales increased from EUR61.5 million compared to the same period in 2007. 
+
+Key points:
+1. Both operating profit and net sales are reported as having increased.
+2. The use of ""increased"" indicates a positive change, which is favorable for the company",annotator_instruction
+29,"Operating profit for the three-month period increased from EUR1 .2 m , while revenue increased from ...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the language used and the context provided. The text states that operating profit for a three-month period increased from EUR1.2 million, while revenue increased from EUR20.2 million compared to the same period in 2005. 
+
+Key points:
+- Both operating profit and revenue are reported as having increased.
+- The use of ""increased"" indicates growth or improvement in both metrics.
+- There is no mention of",annotator_instruction
+30,"The Brazilian unit of Finnish security solutions provider F-Secure signed up 1,500 new clients last ...",positive,unknown,"To determine the sentiment of the provided text, we need to analyze the content and context carefully. The text states that F-Secure's Brazilian unit signed up 1,500 new clients last year, as reported by Reseller Web quoting the division’s commercial director. 
+
+First, let's break down the key elements:
+- **F-Secure**: A Finnish security solutions provider.
+- **Brazilian unit**: A subsidiary or branch in Brazil.
+- **1,500 new clients",annotator_instruction
+31,The company 's net profit rose 11.4 % on the year to 82.2 million euros in 2005 on sales of 686.5 mi...,positive,positive,"To determine the sentiment of the given text, we need to analyze the language used and the context provided. The text states that the company's net profit rose by 11.4% in 2005 compared to the previous year, along with an increase in sales by 13.8%. Both figures indicate growth and improvement in financial performance.
+
+Key points:
+- Net profit increased (positive).
+- Sales also grew (positive).
+- The use of ""rose"" and ""up",annotator_instruction
+32,"The Lithuanian beer market made up 14.41 million liters in January , a rise of 0.8 percent from the ...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the content and context provided. The text states that the Lithuanian beer market had a volume of 14.41 million liters in January, which is an increase of 0.8% compared to the previous year. The source cited is the Lithuanian Brewers' Association reporting results from its members.
+
+### Key Analysis:
+1. **Factual Information**: The text primarily provides numerical data (volume and percentage change)",annotator_instruction
+33,"Viking Line 's cargo revenue increased by 5.4 % to EUR 21.46 mn , and cargo volume increased by 2.4 ...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the specific details provided. The text states that Viking Line's cargo revenue increased by 5.4% to EUR 21.46 million, and cargo volume increased by 2.4% to 70,116 units. 
+
+First, let's break down the components of the text:
+- **Cargo Revenue**: Increased by 5.4%. This is a positive financial metric as revenue",annotator_instruction
+34,The fair value of the property portfolio doubled as a result of the Kapiteeli acquisition and totall...,positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the key terms used in the statement. The text provided is: ""The fair value of the property portfolio doubled as a result of the Kapiteeli acquisition and totalled EUR 2,686.2 1,259.7 million.""
+
+First, let's break down the components of the sentence:
+
+1. **Fair Value Doubling**: The phrase ""doubled"" indicates a significant increase",annotator_instruction
+35,10 February 2011 - Finnish media company Sanoma Oyj HEL : SAA1V said yesterday its 2010 net profit a...,positive,unknown,"To determine the sentiment of the provided text, we need to analyze the content and context. The text mentions that Finnish media company Sanoma Oyj reported a significant increase in its net profit from 2009 to 2010. Specifically, the net profit almost tripled from EUR107.1 million in 2009 to EUR297.3 million in 2010. Additionally, the company announced a proposal for a raised payout.",annotator_instruction
+36,"A Helsinki : ELIiV today reported EPS of EUR1 .13 for 2009 , an increase over EPS of EUR1 .12 in 200...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the content and context provided. The text states that ELIiV (likely a company name) reported an earnings per share (EPS) increase from EUR1.12 in 2008 to EUR1.13 in 2009. 
+
+Here's the step-by-step breakdown:
+
+1. **Identify Key Information**: The text mentions EPS figures for two consecutive years, specifically 2008",annotator_instruction
+37,"Aspo Plc STOCK EXCHANGE RELEASE February 11 , 2011 at8 .45 a.m. ESL Shipping Ltd , part of Aspo Grou...",positive,unknown,"To determine the sentiment of the provided text, we need to analyze the context and the key elements mentioned. The text is a stock exchange release from Aspo Plc regarding a new long-term contract signed by its subsidiary, ESL Shipping Ltd, with Rautaruukki Corporation for marine transport services on the Baltic Sea.
+
+First, let's break down the components of the text:
+1. **Aspo Group**: This is the parent company mentioned here.
+2. **ESL Shipping Ltd**: A",annotator_instruction
+38,"Commission income increased by 22 % to EUR 4.4 mn , and lending volume rose by 13.5 % ....",positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the specific terms used in the financial statement provided. The text states that ""Commission income increased by 22% to EUR 4.4 million"" and ""lending volume rose by 13.5%."" Both of these figures indicate growth or improvement in two key financial metrics: commission income and lending volume.
+
+### Key Analysis:
+1. **Positive Indicators**:
+   - The use of percentages like",annotator_instruction
+39,"In January , traffic , measured in revenue passenger kilometres RPK , went up by 3.2 % and capacity ...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the numerical data provided. The text states that traffic (measured in revenue passenger kilometers RPK) increased by 3.2% and capacity (available seat kilometers ASK) rose by 12.2%. 
+
+First, let's consider the terminology used. ""Traffic"" here refers to the number of passengers using the service, which is a positive indicator for an airline or transportation company because higher traffic typically means",annotator_instruction
+40,"In January-September 2010 , Fiskars ' net profit went up by 14 % year-on-year to EUR 65.4 million an...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the specific terms used in describing Fiskars' financial performance. The text states that Fiskars' net profit increased by 14% year-on-year from January-September 2010. Additionally, net sales rose from EUR 487.7 million to EUR 525.3 million during the same period.
+
+First, let's break down the key components of the text:
+1",annotator_instruction
+41,"Net income from life insurance rose to EUR 16.5 mn from EUR 14.0 mn , and net income from non-life i...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the numerical data provided. The text states that ""Net income from life insurance rose to EUR 16.5 mn from EUR 14.0 mn"" and ""net income from non-life insurance to EUR 22.6 mn from EUR 15.2 mn in 2009."" 
+
+First, let's break down the components:
+- Life insurance net income increased by EUR 2",annotator_instruction
+42,"Nyrstar has also agreed to supply to Talvivaara up to 150,000 tonnes of sulphuric acid per annum for...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the key terms used. The text states that Nyrstar has agreed to supply up to 150,000 tonnes of sulphuric acid per annum to Talvivaara for use in their leaching process during the period of supply of zinc in concentrate.
+
+First, let's break down the components:
+- **Nyrstar** is a company providing a product (sulphuric acid",annotator_instruction
+43,"Sales for both the Department Store Division and Hobby Hall increased by 7 % , while sales for the c...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the opinions or feelings expressed towards the financial entities mentioned. The text states that sales for two divisions (Department Store Division and Hobby Hall) increased by 7%, while sales for another subsidiary (Seppala) decreased by 4%. 
+
+First, let's break down each component of the text:
+
+1. **Sales increase for Department Store Division and Hobby Hall**: This is a positive development because an increase in sales typically indicates growth or",annotator_instruction
+44,Sales have risen in other export markets ....,positive,unknown,"To determine the sentiment of the given text, we need to analyze the content and context provided. The text states: ""Sales have risen in other export markets."" 
+
+First, let's break down the key components:
+- **Subject**: Sales (financial metric)
+- **Trend**: Risen (indicating an increase)
+- **Context**: Other export markets (geographical or market-specific focus)
+
+Next, we consider the implications of this statement. An increase in sales is generally a positive development for",annotator_instruction
+45,Sales increased due to growing market rates and increased operations ....,positive,unknown,"To determine the sentiment of the given text, we need to analyze the content and context provided. The text states: ""Sales increased due to growing market rates and increased operations."" 
+
+First, let's break down the components of the sentence:
+1. **Sales increased**: This indicates a positive change in financial performance.
+2. **Growing market rates**: Market rates typically refer to interest rates or other economic indicators. If these are increasing, it could imply favorable conditions for certain businesses (e.g., lending",annotator_instruction
+46,The agreement strengthens our long-term partnership with Nokia Siemens Networks ....,positive,unknown,"To determine the sentiment of the given text, we need to analyze the language used and the context provided. Here's a step-by-step breakdown:
+
+1. **Identify Key Words**: The main words in the text are ""agreement,"" ""strengthens,"" ""long-term partnership,"" and ""Nokia Siemens Networks."" These terms are neutral in their literal meanings but can carry connotations based on the context.
+
+2. **Contextual Analysis**:
+   - The phrase ""strengthens our long-term",annotator_instruction
+47,"The agreement was signed with Biohit Healthcare Ltd , the UK-based subsidiary of Biohit Oyj , a Finn...",positive,unknown,"To determine the sentiment of the given text, we need to analyze the context and the words used. The text states that an agreement was signed with Biohit Healthcare Ltd, which is described as a UK-based subsidiary of Biohit Oyj, a Finnish public company involved in developing, manufacturing, and marketing liquid handling products and diagnostic test systems.
+
+First, let's break down the key elements:
+1. **Agreement**: This could imply a business transaction or partnership, which is neutral on its own",annotator_instruction
+48,The company also estimates the already carried out investments to lead to an increase in its net sal...,positive,unknown,"To determine the sentiment of the given text, we need to analyze the language used and the context provided. The text states that the company estimates investments already carried out to lead to an increase in net sales for 2010 compared to 2009. Here's a step-by-step breakdown:
+
+1. **Key Phrases**: 
+   - ""estimates... to lead to an increase"": This phrase indicates a forward-looking expectation of growth.
+   - ""already carried out investments"":",annotator_instruction
+49,"The company 's order book stood at 1.5 bln euro $ 2.2 bln on September 30 , 2007 , up by 24.2 pct on...",positive,unknown,"To determine the sentiment of the provided text, we need to analyze the context and the numerical data presented. The text states that the company's order book stood at specific values in September 2007, with an increase of 24.2% year-over-year. Additionally, it mentions international orders as a component of the total.
+
+First, let's break down the key components:
+1. **Order Book Value**: The order book increased from €1.5 billion to €2.",annotator_instruction
